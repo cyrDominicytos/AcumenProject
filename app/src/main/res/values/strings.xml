@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_favorite">Favoris</string>
+    <string name="title_search">Search</string>
+    <string name="recent_search">RECENT SEARCHES</string>
+    <string-array name="to_searchList">
+        <item>Apple</item>
+        <item>Red Apple</item>
+        <item>Green Apple</item>
+        <item>Orange</item>
+        <item>Yellow Orange</item>
+        <item>Wiki</item>
+        <item>Italian Wiki</item>
+        <item>Africa Apple</item>
+        ...
+    </string-array>
+</resources>
